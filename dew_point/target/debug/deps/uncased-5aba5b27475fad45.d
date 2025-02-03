@@ -1,0 +1,11 @@
+/Users/xethrus/code/projects/dew_point/dew_point/target/debug/deps/libuncased-5aba5b27475fad45.rmeta: /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/Users/xethrus/code/projects/dew_point/dew_point/target/debug/deps/libuncased-5aba5b27475fad45.rlib: /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/Users/xethrus/code/projects/dew_point/dew_point/target/debug/deps/uncased-5aba5b27475fad45.d: /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs:

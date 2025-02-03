@@ -1,0 +1,11 @@
+/Users/xethrus/code/projects/dew_point/dew_point/target/debug/deps/libubyte-b958e18845057d88.rmeta: /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/xethrus/code/projects/dew_point/dew_point/target/debug/deps/libubyte-b958e18845057d88.rlib: /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/xethrus/code/projects/dew_point/dew_point/target/debug/deps/ubyte-b958e18845057d88.d: /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs /Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs:
+/Users/xethrus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs:

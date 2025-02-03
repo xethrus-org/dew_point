@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Display</title>
+    <style>
+    table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+    th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    }
+    th {
+    background-color: #f2f2f2;
+    }
+    </style>
+  </head>
+  <body>
+    <h2>Data as of: <span id="timestamp"></span></h2>
+    <table>
+      <thead>
+        <tr>
+          <th>SPECIES ID</th>
+          <th>ENCLOSURE SIZE</th>
+          <th>HUMIDITY</th>
+          <th>TEMP</th>
+        </tr>
+      </thead>
+      <tbody id="data-table">
+      </tbody>
+    </table>
+
+    <script>
+    async function fetchData() {
+    try {
+    const response = await fetch("/data");
+    const data = await response.json();
+    const table = document.getElementById("data-table");
+    const timestamp = new Date().toLocaleString();
+    document.getElementById("timestamp").textContent = timestamp;
+    table.innerHTML = data.map(row => `
+    <tr>
+    <td>${row.species_id}</td>
+    <td>${row.enclosure_size}</td>
+    <td>${row.humidity}</td>
+    <td>${row.temp}</td>
+    </tr>
+    `).join("");
+    } catch (error) {
+    console.error("Error fetching data:", error);
+    }
+    }
+
+    fetchData();
+    </script>
+  </body>
+</html>
+
